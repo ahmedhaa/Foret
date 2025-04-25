@@ -28,7 +28,8 @@ Fire started at (31, 89)
   - Added buttons to **start/stop the fire** in the simulation
 - Added a **refresh button** to reload the simulation state
   
-  <img width="899" alt="image" src="https://github.com/user-attachments/assets/8ca1c05e-9102-4983-a2b3-86775647c92a" />
+ <img width="827" alt="image" src="https://github.com/user-attachments/assets/1d89b1ab-8d92-4019-b226-a64ebe2d6900" />
+
 
   
 ### ✅ Prerequisites
