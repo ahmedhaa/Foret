@@ -1,0 +1,36 @@
+.controls {
+    display: flex;
+    justify-content: center; 
+    margin-bottom: 10px; 
+    gap: 20px; 
+  }
+  
+  button {
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #39e630; 
+    color: white;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #e4813a; 
+  }
+  
+  button:active {
+    background-color: #e82020; 
+  }
+  
+  button:focus {
+    outline: none;
+  }
+  
+  canvas {
+    display: block;
+    margin: 0 auto; 
+    border: 1px solid black;
+  }
+  
