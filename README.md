@@ -8,7 +8,7 @@ This repository contains **two distinct projects** focused on simulating and vis
 
 +This feature is implemented in both projects: C (simulation with Ez-Draw) and Angular (web interface with Canvas).
 
-    ## 🔧 C Project – Forest Fire Simulation
+    ##  C Project – Forest Fire Simulation
 
 ### ✅ Prerequisites
 
