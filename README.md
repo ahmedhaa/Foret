@@ -28,6 +28,9 @@ Fire started at (31, 89)
   - Added buttons to **start/stop the fire** in the simulation
 - Added a **refresh button** to reload the simulation state
   
+  <img width="899" alt="image" src="https://github.com/user-attachments/assets/8ca1c05e-9102-4983-a2b3-86775647c92a" />
+
+  
 ### ✅ Prerequisites
 
 - Node.js v18+
@@ -36,7 +39,6 @@ Fire started at (31, 89)
 npm install -g @angular/cli
 
 
-<img width="899" alt="image" src="https://github.com/user-attachments/assets/8ca1c05e-9102-4983-a2b3-86775647c92a" />
 
 
 
