@@ -18,7 +18,7 @@ type Cellule = 0 | 1 | 2 | 3;
       <button (click)="startTimer()">
         {{ simulationEnCours ? 'Arrêter l incendie' : 'Démarrer l incendie ' }}
       </button>
-      <button (click)="refreshForet()">Refresh</button>
+      <button (click)="refreshForet()">Recharger</button>
     </div>
 
     <canvas #canvas width="500" height="500" (click)="onCanvasClick($event)"></canvas>
