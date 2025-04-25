@@ -4,6 +4,9 @@ This repository contains **two distinct projects** focused on simulating and vis
 
 1.  A **C project** named test with a graphical interface using **Ez-Draw**, developed and run with **Visual Studio 2022**
 2.  An **Angular 19 project** named feu-foret-angular  for the web interface  using **Canvas** (visualization, statistics, and user interaction)
+3.  The fire is initialized at the center of the forest to make the simulation more visible and observe the fire's behavior.
+
++This feature is implemented in both projects: C (simulation with Ez-Draw) and Angular (web interface with Canvas).
 
     ## 🔧 C Project – Forest Fire Simulation
 
