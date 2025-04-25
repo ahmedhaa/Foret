@@ -35,7 +35,9 @@ Fire started at (31, 89)
 ```bash
 npm install -g @angular/cli
 
-<img width="899" alt="image" src="https://github.com/user-attachments/assets/7aca65b5-9627-4606-aa5d-82a5302d5cb8" />
+
+<img width="899" alt="image" src="https://github.com/user-attachments/assets/8ca1c05e-9102-4983-a2b3-86775647c92a" />
+
 
 
 
